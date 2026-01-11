@@ -35,4 +35,4 @@ Once you run ``node .``, the Discord client will start automatically!
 # Credits
 - [thank you Discord for your amazing api :)](https://discord.com)
 
-  <p align="center">Made with ♡ by <a href="https://www.brianwalczak.com">Briann</a></p>
+  <p align="center">Made with ♡ by <a href="https://brian.re/">Briann</a></p>
